@@ -1,0 +1,11 @@
+.monaco {
+  height: 100vh;
+  width: 100vw;
+  border: 1px solid #ccc;
+  display: flex;
+  flex-flow: column;
+}
+
+.editor {
+  flex: 1;
+}
